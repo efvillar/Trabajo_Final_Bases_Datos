@@ -4,19 +4,39 @@ string_field_0 as Id_Country,
 string_field_4 as Id_Experience,
 string_field_5 as Id_Ocupation,
 null as Id_Salary,
-string_field_1 as Age,
-string_field_2 as Gender,
+string_field_1 as Id_Age,
+string_field_2 as Id_Gender,
+(case when string_field_50 like '%AngularJS%' then 'AngularJS'
+else null
+end) as AngularJS,
 string_field_11 as C,
 string_field_12 as CPlusPlus,
 string_field_14 as CSharp,
+(case when string_field_50 like '%CSS%' then 'CSS'
+else null
+end) as CSS,
+(case when string_field_50 like '%HTML5%' then 'HTML5'
+else null
+end) as HTML5,
 string_field_26 as Java,
 string_field_27 as JavaScript,
+(case when string_field_50 like '%jQuery%' then 'jQuery'
+else null
+end) as jQuery,
 string_field_31 as Nodejs,
+string_field_32 as ObjectiveC,
+string_field_33 as Perl,
 string_field_34 as PHP,
 string_field_35 as Python,
+string_field_38 as Ruby,
 string_field_44 as SQL,
-string_field_45 as SQL_Server
-FROM `fh-bigquery.stackoverflow.survey_results_public_2015` 
+string_field_45 as SQL_Server,
+(case when string_field_50 like '%TypeScript%' then 'TypeScript'
+else null
+end) as TypeScript
+
+FROM `fh-bigquery.stackoverflow.survey_results_2015`
+
 
 
 /* Conteo para identificar los más usados
