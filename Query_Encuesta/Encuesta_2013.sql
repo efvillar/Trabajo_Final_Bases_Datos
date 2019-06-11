@@ -1,6 +1,6 @@
 SELECT 
 2013 as Year,
-string_field_1 as Id_Country,
+string_field_0 as Id_Country,
 string_field_3 as Id_Experience,
 string_field_6 as Id_Ocupation,
 string_field_100 as Id_Salary,
