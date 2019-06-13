@@ -1,3 +1,5 @@
+CREATE TABLE `basededatosmasivos.Base_de_Datos.Encuesta_2015` 
+AS
 SELECT 
 2015 as Year,
 string_field_0 as Id_Country,
