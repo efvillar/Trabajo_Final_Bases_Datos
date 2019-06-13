@@ -1,3 +1,5 @@
+CREATE TABLE `basededatosmasivos.Base_de_Datos.Encuesta_2011` 
+AS
 SELECT 
 2011 as Year,
 string_field_0 as Id_Country,
@@ -39,4 +41,6 @@ end) as SQL_Server,
 else null
 end) as TypeScript
 
-FROM `fh-bigquery.stackoverflow.survey_results_2011` 
+FROM `fh-bigquery.stackoverflow.survey_results_2011`
+
+LIMIT 80000 offset 2
