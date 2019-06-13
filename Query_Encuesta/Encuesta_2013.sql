@@ -44,4 +44,4 @@ end) as TypeScript
 FROM `fh-bigquery.stackoverflow.survey_results_2013` 
 
 
-LIMIT 80000 offset 1
+LIMIT 80000 offset 2
