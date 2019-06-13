@@ -1,3 +1,5 @@
+CREATE TABLE `basededatosmasivos.Base_de_Datos.Encuesta_2017` 
+AS
 SELECT 
 2017 as Year,
 Country as Id_Country,
@@ -5,7 +7,7 @@ YearsProgram as Id_Experience,
 DeveloperType as Id_Ocupation,
 --HaveWorkedLanguage,
 Salary as Id_Salary,
-null as Id_Age,
+CAST(null AS STRING) as Id_Age,
 Gender as Id_Gender,
 
 (case when HaveWorkedLanguage like '%AngularJS%' then 'AngularJS'
