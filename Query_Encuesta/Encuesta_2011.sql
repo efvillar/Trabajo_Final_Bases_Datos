@@ -7,7 +7,7 @@ string_field_3 as Id_Experience,
 string_field_6 as Id_Ocupation,
 string_field_45 as Id_Salary,
 string_field_2 as Id_Age,
-null as Id_Gender,
+CAST(null AS STRING) as Id_Gender,
 (case when string_field_42 like '%AngularJS%' then 'AngularJS'
 else null
 end) as AngularJS,
