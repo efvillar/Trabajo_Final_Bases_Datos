@@ -6,7 +6,7 @@ SELECT
 string_field_0 as Id_Country,
 string_field_5 as Id_Experience,
 string_field_6 as Id_Ocupation,
-CAST(null AS STRING) as Id_Salary,
+string_field_7 as Id_Salary,
 string_field_3 as Id_Age,
 string_field_4 as Id_Gender,
 (case when string_field_53 like '%AngularJS%' then 'AngularJS'
