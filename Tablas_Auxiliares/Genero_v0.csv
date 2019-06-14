@@ -1,0 +1,50 @@
+Year,Id_Gender,Gender,Desc_Gender
+2011,,4,Null
+2012,,4,Null
+2013,,4,Null
+2014,Female,1,Female
+2014,Male,2,Male
+2014,Prefer not to disclose,4,Otros
+2014,,4,Null
+2015,Female,1,Female
+2015,Male,2,Male
+2015,Other,4,Otros
+2015,Prefer not to disclose,4,Otros
+2015,,4,Null
+2016,Female,1,Female
+2016,Male,2,Male
+2016,Other,4,Otros
+2016,Prefer not to disclose,4,Otros
+2016,,4,Null
+2017,Female,1,Female
+2017,Gender non-conforming,4,Otros
+2017,Male,2,Male
+2017,Other,4,Otros
+2017,Transgender,4,Otros
+2017,,4,Null
+2017,NA,4,Null
+2017,"Male; Other",4,Null
+2017,"Male; Female",4,Null
+2017,"Male; Gender non-conforming",4,Null
+2017,Gender non-conforming,4,Null
+2017,"Female; Transgender",4,Null
+2017,"Female; Gender non-conforming; Other",4,Null
+2017,"Gender non-conforming; Other",4,Null
+2017,"Male; Female; Transgender; Gender non-conforming; Other",4,Null
+2017,"Male; Female; Transgender; Gender non-conforming",4,Null
+2017,"Female; Gender non-conforming",4,Null
+2017,"Male; Transgender",4,Null
+2017,"Male; Female; Transgender",4,Null
+2017,"Transgender; Gender non-conforming",4,Null
+2017,"Male; Transgender; Gender non-conforming",4,Null
+2017,"Transgender; Other",4,Null
+2017,"Male; Female; Gender non-conforming; Other",4,Null
+2017,"Male; Female; Transgender; Other",4,Null
+2017,"Female; Transgender; Gender non-conforming",4,Null
+2017,"Male; Female; Gender non-conforming",4,Null
+2017,"Male; Female; Other",4,Null
+2017,"Female; Transgender; Gender non-conforming; Other",4,Null
+2017,"Male; Gender non-conforming; Other",4,Null
+2017,"Female; Other",4,Null
+2017,"Female; Transgender; Other",4,Null
+2017,"Male; Transgender; Other",4,Null

@@ -1,0 +1,700 @@
+Year,Id_Country,Country,Des_Country
+2011,Africa,228,Continente
+2011,Australasia,15,Australasia
+2011,Australia,16,Australia
+2011,Canada,42,Canada
+2011,Central America,46,Central America
+2011,France,74,France
+2011,Germany,78,Germany
+2011,India,93,India
+2011,Italy,99,Italy
+2011,Mexico,130,Mexico
+2011,Middle East,132,Middle East
+2011,Netherlands,144,Netherlands
+2011,North America (Other),228,Continente
+2011,Other Asia,228,Continente
+2011,Other Europe,228,Continente
+2011,Russia,169,Russia
+2011,South America,228,Continente
+2011,United Kingdom,212,United Kingdom
+2011,United States of America,213,United States of America
+2012,Africa,228,Continente
+2012,Australasia,15,Australasia
+2012,Australia,16,Australia
+2012,Bangladesh,21,Bangladesh
+2012,Canada,42,Canada
+2012,Central America,46,Central America
+2012,France,74,France
+2012,Germany,78,Germany
+2012,India,93,India
+2012,Italy,99,Italy
+2012,Mexico,130,Mexico
+2012,Middle East,132,Middle East
+2012,Netherlands,144,Netherlands
+2012,North America (Other),228,Continente
+2012,Other Asia,228,Continente
+2012,Other Europe,228,Continente
+2012,Russia,169,Russia
+2012,South America,228,Continente
+2012,United Kingdom,212,United Kingdom
+2012,United States of America,213,United States of America
+2012,,227,Null
+2013,Africa,228,Continente
+2013,Australasia,15,Australasia
+2013,Australia,16,Australia
+2013,Bangladesh,21,Bangladesh
+2013,Canada,42,Canada
+2013,Central America,46,Central America
+2013,France,74,France
+2013,Germany,78,Germany
+2013,India,93,India
+2013,Italy,99,Italy
+2013,Mexico,130,Mexico
+2013,Middle East,132,Middle East
+2013,Netherlands,144,Netherlands
+2013,North America (Other),228,Continente
+2013,Other Asia,228,Continente
+2013,Other Europe,228,Continente
+2013,Response,,
+2013,Russia,169,Russia
+2013,South America,228,Continente
+2013,United Kingdom,212,United Kingdom
+2013,United States of America,213,United States of America
+2013,,227,Null
+2014,Algeria,4,Algeria
+2014,Argentina,12,Argentina
+2014,Armenia,13,Armenia
+2014,Australia,16,Australia
+2014,Austria,17,Austria
+2014,Bangladesh,21,Bangladesh
+2014,Belarus,23,Belarus
+2014,Belgium,24,Belgium
+2014,Bolivia,29,Bolivia
+2014,Bosnia and Herzegovina,30,Bosnia-Herzegovina
+2014,Brazil,33,Brazil
+2014,Bulgaria,36,Bulgaria
+2014,Cambodia,40,Cambodia
+2014,Canada,42,Canada
+2014,Chile,48,Chile
+2014,China,49,China
+2014,Colombia,51,Colombia
+2014,Costa Rica,55,Costa Rica
+2014,Croatia,56,Croatia
+2014,Cyprus,58,Cyprus
+2014,Czech Republic,59,Czech Republic
+2014,Denmark,60,Denmark
+2014,Dominican Republic,63,Dominican Republic
+2014,Ecuador,65,Ecuador
+2014,Egypt,66,Egypt
+2014,El Salvador,67,El Salvador
+2014,Estonia,69,Estonia
+2014,Finland,73,Finland
+2014,France,74,France
+2014,Georgia,77,Georgia
+2014,Germany,78,Germany
+2014,Ghana,79,Ghana
+2014,Greece,81,Greece
+2014,Guatemala,84,Guatemala
+2014,Hong Kong,90,Hong Kong
+2014,Hungary,91,Hungary
+2014,Iceland,92,Iceland
+2014,India,93,India
+2014,Indonesia,94,Indonesia
+2014,Iran,95,Iran
+2014,Ireland,97,Ireland
+2014,Israel,98,Israel
+2014,Italy,99,Italy
+2014,Japan,102,Japan
+2014,Jordan,103,Jordan
+2014,Kazakhstan,104,Kazakhstan
+2014,Kenya,105,Kenya
+2014,Kuwait,109,Kuwait
+2014,Latvia,112,Latvia
+2014,Lebanon,113,Lebanon
+2014,Lithuania,117,Lithuania
+2014,Luxembourg,118,Luxembourg
+2014,Macedonia [FYROM],120,Macedonia
+2014,Malaysia,123,Malaysia
+2014,Malta,126,Malta
+2014,Mexico,130,Mexico
+2014,Moldova,134,Moldova
+2014,Morocco,139,Morocco
+2014,Myanmar [Burma],141,Myanmar
+2014,Nepal,143,Nepal
+2014,Netherlands,144,Netherlands
+2014,New Zealand,147,New Zealand
+2014,Nigeria,150,Nigeria
+2014,Norway,152,Norway
+2014,Other,229,Other
+2014,Pakistan,154,Pakistan
+2014,Palestine,156,Palestine
+2014,Peru,159,Peru
+2014,Philippines,160,Philippines
+2014,Poland,162,Poland
+2014,Portugal,164,Portugal
+2014,Puerto Rico,165,Puerto Rico
+2014,Romania,168,Romania
+2014,Russia,169,Russia
+2014,Saudi Arabia,177,Saudi Arabia
+2014,Serbia,179,Serbia
+2014,Singapore,182,Singapore
+2014,Slovakia,184,Slovakia
+2014,Slovenia,185,Slovenia
+2014,South Africa,188,South Africa
+2014,South Korea,188,South Africa
+2014,Spain,190,Spain
+2014,Sri Lanka,191,Sri Lanka
+2014,Sweden,196,Sweden
+2014,Switzerland,197,Switzerland
+2014,Taiwan,199,Taiwan
+2014,Thailand,202,Thailand
+2014,Tunisia,205,Tunisia
+2014,Turkey,206,Turkey
+2014,Ukraine,210,Ukraine
+2014,United Arab Emirates,211,United Arab Emirates
+2014,United Kingdom,212,United Kingdom
+2014,United States,213,United States of America
+2014,Uruguay,214,Uruguay
+2014,Venezuela,219,Venezuela
+2014,Vietnam,220,Vietnam
+2015,Afghanistan,1,Afghanistan
+2015,Albania,3,Albania
+2015,Algeria,4,Algeria
+2015,Andorra,6,Andorra
+2015,Angola,7,Angola
+2015,Antigua & Deps,10,Antigua & Deps
+2015,Argentina,12,Argentina
+2015,Armenia,13,Armenia
+2015,Australia,16,Australia
+2015,Austria,17,Austria
+2015,Azerbaijan,18,Azerbaijan
+2015,Bahamas,19,Bahamas
+2015,Bahrain,20,Bahrain
+2015,Bangladesh,21,Bangladesh
+2015,Barbados,22,Barbados
+2015,Belarus,23,Belarus
+2015,Belgium,24,Belgium
+2015,Benin,26,Benin
+2015,Bhutan,28,Bhutan
+2015,Bolivia,29,Bolivia
+2015,Bosnia Herzegovina,30,Bosnia-Herzegovina
+2015,Botswana,31,Botswana
+2015,Brazil,33,Brazil
+2015,Brunei,35,Brunei
+2015,Bulgaria,36,Bulgaria
+2015,Burkina,37,Burkina
+2015,Cambodia,40,Cambodia
+2015,Cameroon,41,Cameroon
+2015,Canada,42,Canada
+2015,Chile,48,Chile
+2015,China,49,China
+2015,Colombia,51,Colombia
+2015,Congo {Democratic Rep},53,Congo
+2015,Costa Rica,55,Costa Rica
+2015,Country,227,Null
+2015,Croatia,56,Croatia
+2015,Cuba,57,Cuba
+2015,Cyprus,58,Cyprus
+2015,Czech Republic,59,Czech Republic
+2015,Denmark,60,Denmark
+2015,Djibouti,61,Djibouti
+2015,Dominican Republic,63,Dominican Republic
+2015,Ecuador,65,Ecuador
+2015,Egypt,66,Egypt
+2015,El Salvador,67,El Salvador
+2015,Estonia,69,Estonia
+2015,Ethiopia,70,Ethiopia
+2015,Finland,73,Finland
+2015,France,74,France
+2015,Gabon,76,Gabon
+2015,Georgia,77,Georgia
+2015,Germany,78,Germany
+2015,Ghana,79,Ghana
+2015,Greece,81,Greece
+2015,Guatemala,84,Guatemala
+2015,Haiti,87,Haiti
+2015,Honduras,89,Honduras
+2015,Hungary,91,Hungary
+2015,Iceland,92,Iceland
+2015,India,93,India
+2015,Indonesia,94,Indonesia
+2015,Iran,95,Iran
+2015,Iraq,96,Iraq
+2015,Ireland {Republic},97,Ireland
+2015,Israel,98,Israel
+2015,Italy,99,Italy
+2015,Jamaica,101,Jamaica
+2015,Japan,102,Japan
+2015,Jordan,103,Jordan
+2015,Kazakhstan,104,Kazakhstan
+2015,Kenya,105,Kenya
+2015,Korea North,106,Korea North
+2015,Korea South,107,Korea South
+2015,Kosovo,108,Kosovo
+2015,Kuwait,109,Kuwait
+2015,Kyrgyzstan,110,Kyrgyzstan
+2015,Laos,111,Laos
+2015,Latvia,112,Latvia
+2015,Lebanon,113,Lebanon
+2015,Liechtenstein,116,Liechtenstein
+2015,Lithuania,117,Lithuania
+2015,Luxembourg,118,Luxembourg
+2015,Macedonia,120,Macedonia
+2015,Madagascar,121,Madagascar
+2015,Malaysia,123,Malaysia
+2015,Maldives,124,Maldives
+2015,Malta,126,Malta
+2015,Mauritania,128,Mauritania
+2015,Mauritius,129,Mauritius
+2015,Mexico,130,Mexico
+2015,Moldova,134,Moldova
+2015,Mongolia,136,Mongolia
+2015,Montenegro,137,Montenegro
+2015,Morocco,139,Morocco
+2015,Mozambique,140,Mozambique
+2015,"Myanmar, {Burma}",141,Myanmar
+2015,N/A,227,Null
+2015,Namibia,142,Namibia
+2015,Nepal,143,Nepal
+2015,Netherlands,144,Netherlands
+2015,New Zealand,147,New Zealand
+2015,Nicaragua,148,Nicaragua
+2015,Nigeria,150,Nigeria
+2015,Norway,152,Norway
+2015,Oman,153,Oman
+2015,Other,229,Other
+2015,Pakistan,154,Pakistan
+2015,Panama,157,Panama
+2015,Paraguay,158,Paraguay
+2015,Peru,159,Peru
+2015,Philippines,160,Philippines
+2015,Poland,162,Poland
+2015,Portugal,164,Portugal
+2015,Qatar,166,Qatar
+2015,Romania,168,Romania
+2015,Russian Federation,169,Russia
+2015,Rwanda,170,Rwanda
+2015,San Marino,175,San Marino
+2015,Saudi Arabia,177,Saudi Arabia
+2015,Senegal,178,Senegal
+2015,Serbia,179,Serbia
+2015,Sierra Leone,181,Sierra Leone
+2015,Singapore,182,Singapore
+2015,Slovakia,184,Slovakia
+2015,Slovenia,185,Slovenia
+2015,Solomon Islands,186,Solomon Islands
+2015,Somalia,187,Somalia
+2015,South Africa,188,South Africa
+2015,South Sudan,189,South Sudan
+2015,Spain,190,Spain
+2015,Sri Lanka,191,Sri Lanka
+2015,Sudan,193,Sudan
+2015,Swaziland,195,Swaziland
+2015,Sweden,196,Sweden
+2015,Switzerland,197,Switzerland
+2015,Syria,198,Syria
+2015,Taiwan,199,Taiwan
+2015,Tajikistan,200,Tajikistan
+2015,Tanzania,201,Tanzania
+2015,Thailand,202,Thailand
+2015,Togo,203,Togo
+2015,Trinidad & Tobago,203,Togo
+2015,Tunisia,205,Tunisia
+2015,Turkey,206,Turkey
+2015,Turkmenistan,207,Turkmenistan
+2015,Uganda,209,Uganda
+2015,Ukraine,210,Ukraine
+2015,United Arab Emirates,211,United Arab Emirates
+2015,United Kingdom,212,United Kingdom
+2015,United States,213,United States of America
+2015,Uruguay,214,Uruguay
+2015,Uzbekistan,215,Uzbekistan
+2015,Vanuatu,216,Vanuatu
+2015,Vatican City,217,Vatican City
+2015,Venezuela,219,Venezuela
+2015,Vietnam,220,Vietnam
+2015,Zambia,229,Other
+2015,Zimbabwe,229,Other
+2015,,227,Null
+2016,Afghanistan,1,Afghanistan
+2016,Albania,3,Albania
+2016,Algeria,4,Algeria
+2016,Andorra,6,Andorra
+2016,Angola,7,Angola
+2016,Antarctica,9,Antarctica
+2016,Antigua & Deps,10,Antigua & Deps
+2016,Argentina,12,Argentina
+2016,Armenia,13,Armenia
+2016,Australia,16,Australia
+2016,Austria,17,Austria
+2016,Azerbaijan,18,Azerbaijan
+2016,Bahamas,19,Bahamas
+2016,Bahrain,20,Bahrain
+2016,Bangladesh,21,Bangladesh
+2016,Barbados,22,Barbados
+2016,Belarus,23,Belarus
+2016,Belgium,24,Belgium
+2016,Belize,25,Belize
+2016,Benin,26,Benin
+2016,Bermuda,27,Bermuda
+2016,Bhutan,28,Bhutan
+2016,Bolivia,29,Bolivia
+2016,Bosnia Herzegovina,30,Bosnia-Herzegovina
+2016,Botswana,31,Botswana
+2016,Brazil,33,Brazil
+2016,Bulgaria,36,Bulgaria
+2016,Burkina,37,Burkina
+2016,Burundi,39,Burundi
+2016,Cambodia,40,Cambodia
+2016,Cameroon,41,Cameroon
+2016,Canada,42,Canada
+2016,Central African Rep,45,Central African Rep
+2016,Chad,47,Chad
+2016,Chile,48,Chile
+2016,China,49,China
+2016,Colombia,51,Colombia
+2016,Costa Rica,55,Costa Rica
+2016,Croatia,56,Croatia
+2016,Cuba,57,Cuba
+2016,Cyprus,58,Cyprus
+2016,Czech Republic,59,Czech Republic
+2016,Denmark,60,Denmark
+2016,Djibouti,61,Djibouti
+2016,Dominica,62,Dominica
+2016,Dominican Republic,63,Dominican Republic
+2016,East Timor,64,East Timor
+2016,Ecuador,65,Ecuador
+2016,Egypt,66,Egypt
+2016,El Salvador,67,El Salvador
+2016,Estonia,69,Estonia
+2016,Ethiopia,70,Ethiopia
+2016,Fiji,72,Fiji
+2016,Finland,73,Finland
+2016,France,74,France
+2016,Gabon,76,Gabon
+2016,Georgia,77,Georgia
+2016,Germany,78,Germany
+2016,Ghana,79,Ghana
+2016,Greece,81,Greece
+2016,Grenada,82,Grenada
+2016,Guatemala,84,Guatemala
+2016,Guinea,85,Guinea
+2016,Guyana,86,Guyana
+2016,Haiti,87,Haiti
+2016,Honduras,89,Honduras
+2016,Hong Kong,90,Hong Kong
+2016,Hungary,91,Hungary
+2016,Iceland,92,Iceland
+2016,India,93,India
+2016,Indonesia,94,Indonesia
+2016,Iran,95,Iran
+2016,Iraq,96,Iraq
+2016,Ireland {Republic},97,Ireland
+2016,Israel,98,Israel
+2016,Italy,99,Italy
+2016,Ivory Coast,100,Ivory Coast
+2016,Jamaica,101,Jamaica
+2016,Japan,102,Japan
+2016,Jordan,103,Jordan
+2016,Kazakhstan,104,Kazakhstan
+2016,Kenya,105,Kenya
+2016,Korea North,106,Korea North
+2016,Korea South,107,Korea South
+2016,Kosovo,108,Kosovo
+2016,Kuwait,109,Kuwait
+2016,Kyrgyzstan,110,Kyrgyzstan
+2016,Laos,111,Laos
+2016,Latvia,112,Latvia
+2016,Lebanon,113,Lebanon
+2016,Liechtenstein,116,Liechtenstein
+2016,Lithuania,117,Lithuania
+2016,Luxembourg,118,Luxembourg
+2016,Macedonia,120,Macedonia
+2016,Madagascar,121,Madagascar
+2016,Malawi,122,Malawi
+2016,Malaysia,123,Malaysia
+2016,Maldives,124,Maldives
+2016,Malta,126,Malta
+2016,Mauritania,128,Mauritania
+2016,Mauritius,129,Mauritius
+2016,Mexico,130,Mexico
+2016,Micronesia,131,Micronesia
+2016,Moldova,134,Moldova
+2016,Monaco,135,Monaco
+2016,Mongolia,136,Mongolia
+2016,Montenegro,137,Montenegro
+2016,Morocco,139,Morocco
+2016,Mozambique,140,Mozambique
+2016,"Myanmar, {Burma}",141,Myanmar
+2016,Namibia,142,Namibia
+2016,Nepal,143,Nepal
+2016,Netherlands,144,Netherlands
+2016,New Zealand,147,New Zealand
+2016,Nicaragua,148,Nicaragua
+2016,Niger,149,Niger
+2016,Nigeria,150,Nigeria
+2016,Norway,152,Norway
+2016,Oman,153,Oman
+2016,Other (please specify),229,Other
+2016,Pakistan,154,Pakistan
+2016,Palau,155,Palau
+2016,Palestine,156,Palestine
+2016,Panama,157,Panama
+2016,Paraguay,158,Paraguay
+2016,Peru,159,Peru
+2016,Philippines,160,Philippines
+2016,Poland,162,Poland
+2016,Portugal,164,Portugal
+2016,Puerto Rico,165,Puerto Rico
+2016,Qatar,166,Qatar
+2016,Romania,168,Romania
+2016,Russian Federation,169,Russia
+2016,Rwanda,170,Rwanda
+2016,San Marino,175,San Marino
+2016,Sao Tome & Principe,176,Sao Tome & Principe
+2016,Saudi Arabia,177,Saudi Arabia
+2016,Serbia,179,Serbia
+2016,Seychelles,180,Seychelles
+2016,Sierra Leone,181,Sierra Leone
+2016,Singapore,182,Singapore
+2016,Slovakia,184,Slovakia
+2016,Slovenia,185,Slovenia
+2016,Somalia,187,Somalia
+2016,South Africa,188,South Africa
+2016,Spain,190,Spain
+2016,Sri Lanka,191,Sri Lanka
+2016,St Kitts & Nevis,192,St Kitts & Nevis
+2016,Sudan,193,Sudan
+2016,Suriname,194,Suriname
+2016,Sweden,196,Sweden
+2016,Switzerland,197,Switzerland
+2016,Syria,198,Syria
+2016,Taiwan,199,Taiwan
+2016,Tajikistan,200,Tajikistan
+2016,Tanzania,201,Tanzania
+2016,Thailand,202,Thailand
+2016,Togo,203,Togo
+2016,Trinidad & Tobago,203,Togo
+2016,Tunisia,205,Tunisia
+2016,Turkey,206,Turkey
+2016,Uganda,209,Uganda
+2016,Ukraine,210,Ukraine
+2016,United Arab Emirates,211,United Arab Emirates
+2016,United Kingdom,212,United Kingdom
+2016,United States,213,United States of America
+2016,Uruguay,214,Uruguay
+2016,Uzbekistan,215,Uzbekistan
+2016,Vanuatu,216,Vanuatu
+2016,Vatican City,217,Vatican City
+2016,Venezuela,219,Venezuela
+2016,Vietnam,220,Vietnam
+2016,Yemen,229,Other
+2016,Zambia,229,Other
+2016,Zimbabwe,229,Other
+2016,,227,Null
+2017,Afghanistan,1,Afghanistan
+2017,Aland Islands,2,Aland Islands
+2017,Albania,3,Albania
+2017,Algeria,4,Algeria
+2017,American Samoa,5,American Samoa
+2017,Andorra,6,Andorra
+2017,Angola,7,Angola
+2017,Anguilla,8,Anguilla
+2017,Antarctica,9,Antarctica
+2017,Antigua and Barbuda,11,Antigua and Barbuda
+2017,Argentina,12,Argentina
+2017,Armenia,13,Armenia
+2017,Aruba,14,Aruba
+2017,Australia,16,Australia
+2017,Austria,17,Austria
+2017,Azerbaidjan,18,Azerbaijan
+2017,Bahamas,19,Bahamas
+2017,Bahrain,20,Bahrain
+2017,Bangladesh,21,Bangladesh
+2017,Barbados,22,Barbados
+2017,Belarus,23,Belarus
+2017,Belgium,24,Belgium
+2017,Belize,25,Belize
+2017,Benin,26,Benin
+2017,Bermuda,27,Bermuda
+2017,Bhutan,28,Bhutan
+2017,Bolivia,29,Bolivia
+2017,Bosnia-Herzegovina,30,Bosnia-Herzegovina
+2017,Botswana,31,Botswana
+2017,Bouvet Island,32,Bouvet Island
+2017,Brazil,33,Brazil
+2017,British Indian Ocean Territory,34,British Indian Ocean Territory
+2017,Brunei Darussalam,35,Brunei
+2017,Bulgaria,36,Bulgaria
+2017,Burkina Faso,38,Burkina Faso
+2017,Burundi,39,Burundi
+2017,Cambodia,40,Cambodia
+2017,Cameroon,41,Cameroon
+2017,Canada,42,Canada
+2017,Cape Verde,43,Cape Verde
+2017,Cayman Islands,44,Cayman Islands
+2017,Chad,47,Chad
+2017,Chile,48,Chile
+2017,China,49,China
+2017,Christmas Island,50,Christmas Island
+2017,Colombia,51,Colombia
+2017,Comoros,52,Comoros
+2017,Cook Islands,54,Cook Islands
+2017,Costa Rica,55,Costa Rica
+2017,Croatia,56,Croatia
+2017,Cuba,57,Cuba
+2017,Cyprus,58,Cyprus
+2017,Czech Republic,59,Czech Republic
+2017,Denmark,60,Denmark
+2017,Djibouti,61,Djibouti
+2017,Dominican Republic,63,Dominican Republic
+2017,Ecuador,65,Ecuador
+2017,Egypt,66,Egypt
+2017,El Salvador,67,El Salvador
+2017,Eritrea,68,Eritrea
+2017,Estonia,69,Estonia
+2017,Ethiopia,70,Ethiopia
+2017,Falkland Islands,71,Falkland Islands
+2017,Fiji,72,Fiji
+2017,Finland,73,Finland
+2017,France,74,France
+2017,French Guyana,75,French Guyana
+2017,Gabon,76,Gabon
+2017,Georgia,77,Georgia
+2017,Germany,78,Germany
+2017,Ghana,79,Ghana
+2017,Gibraltar,80,Gibraltar
+2017,Greece,81,Greece
+2017,Guam,83,Guam
+2017,Guatemala,84,Guatemala
+2017,Guinea,85,Guinea
+2017,Guyana,86,Guyana
+2017,Haiti,87,Haiti
+2017,Heard and McDonald Islands,88,Heard and McDonald Islands
+2017,Honduras,89,Honduras
+2017,Hong Kong,90,Hong Kong
+2017,Hungary,91,Hungary
+2017,I prefer not to say,227,Null
+2017,Iceland,92,Iceland
+2017,India,93,India
+2017,Indonesia,94,Indonesia
+2017,Iran,95,Iran
+2017,Iraq,96,Iraq
+2017,Ireland,97,Ireland
+2017,Israel,98,Israel
+2017,Italy,99,Italy
+2017,Ivory Coast (Cote D'Ivoire),100,Ivory Coast
+2017,Jamaica,101,Jamaica
+2017,Japan,102,Japan
+2017,Jordan,103,Jordan
+2017,Kazakhstan,104,Kazakhstan
+2017,Kenya,105,Kenya
+2017,Kuwait,109,Kuwait
+2017,Kyrgyzstan,110,Kyrgyzstan
+2017,Laos,111,Laos
+2017,Latvia,112,Latvia
+2017,Lebanon,113,Lebanon
+2017,Lesotho,114,Lesotho
+2017,Libya,115,Libya
+2017,Liechtenstein,116,Liechtenstein
+2017,Lithuania,117,Lithuania
+2017,Luxembourg,118,Luxembourg
+2017,Macau,119,Macau
+2017,Macedonia,120,Macedonia
+2017,Madagascar,121,Madagascar
+2017,Malawi,122,Malawi
+2017,Malaysia,123,Malaysia
+2017,Mali,125,Mali
+2017,Malta,126,Malta
+2017,Martinique (French),127,Martinique
+2017,Mauritius,129,Mauritius
+2017,Mexico,130,Mexico
+2017,Moldavia,133,Moldavia
+2017,Monaco,135,Monaco
+2017,Mongolia,136,Mongolia
+2017,Montenegro,137,Montenegro
+2017,Montserrat,138,Montserrat
+2017,Morocco,139,Morocco
+2017,Mozambique,140,Mozambique
+2017,Myanmar,141,Myanmar
+2017,Namibia,142,Namibia
+2017,Nepal,143,Nepal
+2017,Netherlands,144,Netherlands
+2017,Netherlands Antilles,145,Netherlands Antilles
+2017,New Caledonia (French),146,New Caledonia
+2017,New Zealand,147,New Zealand
+2017,Nicaragua,148,Nicaragua
+2017,Niger,149,Niger
+2017,Nigeria,150,Nigeria
+2017,North Korea,150,Nigeria
+2017,Northern Mariana Islands,151,Northern Mariana Islands
+2017,Norway,152,Norway
+2017,Oman,153,Oman
+2017,Pakistan,154,Pakistan
+2017,Panama,157,Panama
+2017,Paraguay,158,Paraguay
+2017,Peru,159,Peru
+2017,Philippines,160,Philippines
+2017,Pitcairn Island,161,Pitcairn Island
+2017,Poland,162,Poland
+2017,Polynesia (French),163,Polynesia
+2017,Portugal,164,Portugal
+2017,Puerto Rico,165,Puerto Rico
+2017,Qatar,166,Qatar
+2017,Reunion (French),167,Reunion
+2017,Romania,168,Romania
+2017,Russian Federation,169,Russia
+2017,Rwanda,170,Rwanda
+2017,S. Georgia & S. Sandwich Isls.,171,S. Georgia & S. Sandwich Isls.
+2017,Saint Helena,172,Saint Helena
+2017,Saint Lucia,173,Saint Lucia
+2017,Saint Vincent & Grenadines,174,Saint Vincent & Grenadines
+2017,Saudi Arabia,177,Saudi Arabia
+2017,Senegal,178,Senegal
+2017,Serbia,179,Serbia
+2017,Seychelles,180,Seychelles
+2017,Singapore,182,Singapore
+2017,Slovak Republic,183,Slovak Republic
+2017,Slovenia,185,Slovenia
+2017,Somalia,187,Somalia
+2017,South Africa,188,South Africa
+2017,South Korea,188,South Africa
+2017,Spain,190,Spain
+2017,Sri Lanka,191,Sri Lanka
+2017,Sudan,193,Sudan
+2017,Suriname,194,Suriname
+2017,Swaziland,195,Swaziland
+2017,Sweden,196,Sweden
+2017,Switzerland,197,Switzerland
+2017,Syria,198,Syria
+2017,Tadjikistan,198,Syria
+2017,Taiwan,199,Taiwan
+2017,Tanzania,201,Tanzania
+2017,Thailand,202,Thailand
+2017,Togo,203,Togo
+2017,Trinidad and Tobago,204,Trinidad and Tobago
+2017,Tunisia,205,Tunisia
+2017,Turkey,206,Turkey
+2017,Turkmenistan,207,Turkmenistan
+2017,U.S. Minor Outlying Islands,208,U.S. Minor Outlying Islands
+2017,Uganda,209,Uganda
+2017,Ukraine,210,Ukraine
+2017,United Arab Emirates,211,United Arab Emirates
+2017,United Kingdom,212,United Kingdom
+2017,United States,213,United States of America
+2017,Uruguay,214,Uruguay
+2017,Uzbekistan,215,Uzbekistan
+2017,Vatican City State,218,Vatican City State
+2017,Venezuela,219,Venezuela
+2017,Vietnam,220,Vietnam
+2017,Virgin Islands (British),229,Other
+2017,Virgin Islands (USA),229,Other
+2017,Yemen,229,Other
+2017,Zaire,229,Other
+2017,Zambia,229,Other
+2017,Zimbabwe,229,Other
+,,,
+,,,
+,,,
+,,,
+,,,
