@@ -1,0 +1,38 @@
+[
+  {
+    "Id_Age": "1",
+    "Desc_Age": "< 20"
+  },
+  {
+    "Id_Age": "2",
+    "Desc_Age": "20-24"
+  },
+  {
+    "Id_Age": "3",
+    "Desc_Age": "25-29"
+  },
+  {
+    "Id_Age": "4",
+    "Desc_Age": "30-34"
+  },
+  {
+    "Id_Age": "5",
+    "Desc_Age": "35-39"
+  },
+  {
+    "Id_Age": "6",
+    "Desc_Age": "40-50"
+  },
+  {
+    "Id_Age": "7",
+    "Desc_Age": "51-60"
+  },
+  {
+    "Id_Age": "8",
+    "Desc_Age": ">60"
+  },
+  {
+    "Id_Age": "9",
+    "Desc_Age": "Null"
+  }
+]
