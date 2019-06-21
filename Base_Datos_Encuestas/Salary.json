@@ -1,0 +1,58 @@
+[
+  {
+    "Id_Salary": "1",
+    "Desc_Salary": "$0-$20.000"
+  },
+  {
+    "Id_Salary": "2",
+    "Desc_Salary": "$20.001-$40.000"
+  },
+  {
+    "Id_Salary": "3",
+    "Desc_Salary": "$40.001-$60.000"
+  },
+  {
+    "Id_Salary": "4",
+    "Desc_Salary": "$60.001-$80.000"
+  },
+  {
+    "Id_Salary": "5",
+    "Desc_Salary": "$80.001-$100.000"
+  },
+  {
+    "Id_Salary": "6",
+    "Desc_Salary": "$100.001-$120.000"
+  },
+  {
+    "Id_Salary": "7",
+    "Desc_Salary": "$120.001-$140.000"
+  },
+  {
+    "Id_Salary": "8",
+    "Desc_Salary": "$140.001-$160.000"
+  },
+  {
+    "Id_Salary": "9",
+    "Desc_Salary": "$160.001-$180.000"
+  },
+  {
+    "Id_Salary": "10",
+    "Desc_Salary": "$180.001-$200.000"
+  },
+  {
+    "Id_Salary": "11",
+    "Desc_Salary": "Student / Unemployed"
+  },
+  {
+    "Id_Salary": "12",
+    "Desc_Salary": "Rather not say"
+  },
+  {
+    "Id_Salary": "13",
+    "Desc_Salary": "Otro"
+  },
+  {
+    "Id_Salary": "14",
+    "Desc_Salary": "Null"
+  }
+]

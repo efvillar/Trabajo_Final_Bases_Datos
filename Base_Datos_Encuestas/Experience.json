@@ -1,0 +1,26 @@
+[
+  {
+    "Id_Experience": "1",
+    "Desc_Experience": "Null"
+  },
+  {
+    "Id_Experience": "2",
+    "Desc_Experience": "Less than 1 year"
+  },
+  {
+    "Id_Experience": "3",
+    "Desc_Experience": "1 - 2 years"
+  },
+  {
+    "Id_Experience": "4",
+    "Desc_Experience": "2 - 5 years"
+  },
+  {
+    "Id_Experience": "5",
+    "Desc_Experience": "6 - 10 years"
+  },
+  {
+    "Id_Experience": "6",
+    "Desc_Experience": "11+ years"
+  }
+]

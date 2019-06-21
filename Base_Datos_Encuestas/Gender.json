@@ -1,0 +1,18 @@
+[
+  {
+    "Id_Gender": "1",
+    "Desc_Gender": "Female"
+  },
+  {
+    "Id_Gender": "2",
+    "Desc_Gender": "Male"
+  },
+  {
+    "Id_Gender": "3",
+    "Desc_Gender": "Null"
+  },
+  {
+    "Id_Gender": "4",
+    "Desc_Gender": "Otros"
+  }
+]
